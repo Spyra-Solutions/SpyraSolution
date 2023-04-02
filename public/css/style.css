@@ -1,0 +1,30 @@
+.mainContainer{
+    position: relative;
+    font-family: Arial;
+  
+  }
+  .homeBanner{
+      width: 100%;
+      opacity: 0.5;
+  }
+  
+  .text-block {
+    position: absolute;
+    bottom: 410px;
+    right: 730px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .spyra{
+      font-weight: bold;
+      color: red;
+  }
+  .solution{
+      font-weight: bold;
+      color: blue;   
+  }
+  .for{
+      color: rgb(44, 44, 44);
+      font-weight: bold;
+  }
