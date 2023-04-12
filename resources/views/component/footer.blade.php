@@ -5,23 +5,20 @@
                 <div class="single_footer">
                     <h4><img src="{{ asset('images/logo/full-logo.png') }}" alt="" class="w-25"></h4>
                     <ul>
-                        <li><a class="aclass" href="#">Abc</a></li>
-                        <li><a class="aclass" href="#">Abc</a></li>
-                        <li><a class="aclass" href="#">Abc</a></li>
-                        <li><a class="aclass" href="#">Abc</a></li>
-                        <li><a class="aclass" href="#">Abc</a></li>
+                        <li><a class="aclass fw-bold" href="#"><i class="bi bi-geo"></i> ADDRESS</a><br><span class="text-white">Kathmandu Nepal</span></li>
+                        <li><a class="aclass fw-bold" href="#"><i class="bi bi-envelope-paper"></i> EMAIL</a> <br> <span class="text-white">info@spyra.com.np</span></li>
+                        <li><a class="aclass fw-bold" href="#"><i class="bi bi-telephone-x"></i> PHONE</a> <br> <span class="text-white">+977-9810101010, 9820202020</span> </li>
                     </ul>
                 </div>
             </div><!--- END COL --> 
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single_footer single_footer_address">
-                    <h4>Page Link</h4>
+                    <h4>Information</h4>
                     <ul>
-                        <li><a class="aclass" href="#">Abc</a></li>
-                        <li><a class="aclass" href="#">Abc</a></li>
-                        <li><a class="aclass" href="#">Abc </a></li>
-                        <li><a class="aclass" href="#">Abc</a></li>
-                        <li><a class="aclass" href="#">Abc</a></li>
+                        <li><a class="aclass" href="#">About Us</a></li>
+                        <li><a class="aclass" href="#">Service</a></li>
+                        <li><a class="aclass" href="#">FAQ's </a></li>
+                        <li><a class="aclass" href="#">Contact</a></li>
                     </ul>
                 </div>
             </div><!--- END COL -->

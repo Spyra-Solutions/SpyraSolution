@@ -1,6 +1,6 @@
 <div class="container">
     <div class="aboutHeading">
-        <h2>About SPYRA SOLUTION</h2>
+        <h2 class="fw-bold">About SPYRA SOLUTION</h2>
     </div>
     <hr>
     <div class="row">
@@ -15,7 +15,7 @@
             </div>
         </div>
         <div class="col">
-            <img src="{{ asset('images/About/web-design.png') }}" alt="" class="w-100">
+            <img src="{{ asset('images/About/index.png') }}" alt="" class="w-100">
         </div>
     </div>
 </div>

@@ -1,6 +1,6 @@
 @include('component/header')
 <div class="mainContainer">
-    <img src="{{ asset('images/banner.png') }}" alt="" class="homeBanner">
+    <img src="{{ asset('images/b.jpg') }}" alt="" class="homeBanner">
     <div class="text-block">
         <h1><span class="spyra">SPYRA</span> <span class="solution">SOLUTION</span></h1>
         <span class="for">FOR : </span> &nbsp; <span id="typewriter" class="typewriter"></span>
@@ -13,5 +13,5 @@
       </div>
 </div>
 @include('about')
-@include('contact')
+@include('workflow')
 @include('component/footer')

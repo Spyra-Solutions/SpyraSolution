@@ -5,13 +5,13 @@
   }
   .homeBanner{
       width: 100%;
-      opacity: 0.5;
+      opacity: 0.8;
   }
   
   .text-block {
     position: absolute;
-    bottom: 410px;
-    right: 600px;
+    bottom: 680px;
+    right: 1020px;
     color: white;
     padding-left: 20px;
     padding-right: 20px;
